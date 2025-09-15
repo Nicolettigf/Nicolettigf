@@ -19,17 +19,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3><strong> 💻 My Skills </strong></h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,html,css,git,github,azure" width="100%">
-        <br>
-        <img src="https://techicons.dev/icons/microsoftsqlserver/microsoftsqlserver.svg" alt="SQL Server" width="50">
-      </p>
-      <br>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,html,css,git,github,mysql,sqlite,azure" width="100%">
+      <br><br>
       <h3><strong> 📖 Currently Studying </strong></h3>
-      <p>
-        <img src="https://techicons.dev/icons/oracle/oracle.svg" alt="Oracle" width="50">
-        <img src="https://techicons.dev/icons/linux/linux.svg" alt="Linux" width="50">
-      </p>
+        <img src="https://skillicons.dev/icons?i=java,linux,postman,aws" width="60%">
     </td>
     <td width="50%">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y5MjdtNnd4YWhuM2E2eDE3dDBmMXYzbDl4dng1MHJrb2p6aWRxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%">
