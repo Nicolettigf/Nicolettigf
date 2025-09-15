@@ -19,13 +19,21 @@
   <tr>
     <td width="50%">
       <h3><strong> 💻 My Skills </strong></h3>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,html,css,git,github,mysql,azure" width="100%">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,html,css,git,github,sqlserver,azure" width="100%">
       <br><br>
       <h3><strong> 📖 Currently Studying </strong></h3>
-      <img src="https://skillicons.dev/icons?i=lua,spring,mysql,godot" width="60%">
+      <img src="https://skillicons.dev/icons?i=oracle,linux" width="60%">
     </td>
     <td width="50%">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y5MjdtNnd4YWhuM2E2eDE3dDBmMXYzbDl4dng1MHJrb2p6aWRxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%">
     </td>
   </tr>
+  ### 👨‍💻 Sobre mim  
+  Sou desenvolvedor com experiência em **C#, .NET, SQL, Java, HTML, CSS, JavaScript e Vue.js**, além de trabalhar com **APIs, Entity Framework e Git/GitHub**.  
+  Tenho conhecimento em **banco de dados SQL Server**, boas práticas de arquitetura de software e desenvolvimento de sistemas **front-end e back-end**.  
+  
+  Atualmente, estou aprofundando meus estudos em **Oracle Database** e **Linux**, buscando ampliar minhas habilidades em administração de banco de dados e ambientes de desenvolvimento.  
+  
+  🚀 Sempre em evolução, focado em aprender novas tecnologias e aplicar soluções inteligentes!
+
 </table>
