@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+  <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y5MjdtNnd4YWhuM2E2eDE3dDBmMXYzbDl4dng1MHJrb2p6aWRxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" alt="Typing SVG" width="50%" />
   </a>
   <br>
   <a href="mailto:gfnicoletti@gmail.com" alt="Gmail" target="_blank">
@@ -16,7 +16,7 @@
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=java,c#,html,css,django,azure,cypress" width="30%">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,html,css,git,github,mysql,azure" width="60%">
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
