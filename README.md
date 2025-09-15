@@ -35,8 +35,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nicolettigf&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolettigf&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolettigf&layout=compact&theme=radical)
+
+
+- [Web Manga Project](https://github.com/Nicolettigf/WebMangaProject) – 🚀 Um projeto do qual tenho muito orgulho, atualmente em **transição para Vue.js** para modernizar a interface e melhorar a experiência do usuário.
+
+
 ### 👨‍💻 Sobre mim  
-Sou desenvolvedor com experiência em **C#, .NET, SQL, Java, HTML, CSS, JavaScript e Vue.js**, além de trabalhar com **APIs, Entity Framework e Git/GitHub**.  
+Sou desenvolvedor com experiência em **C#, .NET, SQL, HTML, CSS, JavaScript e Vue.js**, além de trabalhar com **APIs, Entity Framework e Git/GitHub**.  
 Tenho conhecimento em **banco de dados SQL Server**, boas práticas de arquitetura de software e desenvolvimento de sistemas **front-end e back-end**.  
 
 Atualmente, estou aprofundando meus estudos em **Oracle Database** e **Linux**, buscando ampliar minhas habilidades em administração de banco de dados e ambientes de desenvolvimento.  
